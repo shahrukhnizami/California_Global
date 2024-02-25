@@ -25,3 +25,56 @@
 .flex-column>li{
     color: grey!important;
 }
+.list-no-dividers>li{position:relative;padding:5px 0}
+ul{list-style:none;margin:0;padding:0}
+.footer-widgets a {
+    color: #7f7f7f;
+}
+.footer-widgets .widget-title {
+    margin-bottom: 26px;
+    font-size: 16px;
+    position: relative;
+    text-transform: none;
+    letter-spacing: normal;
+}
+.widget{margin-bottom:50px}
+.widget-title{font-size:16px;margin-bottom:30px}
+.widget-title{margin-bottom:30px;font-size:16px}
+.widget-title{margin-bottom:26px;font-size:16px;position:relative;text-transform:none;letter-spacing:normal}
+.footer-links li:first-child{padding-top:0!important}
+.footer-links li:last-child{border-bottom:none!important;padding-bottom:0!important}
+.footer-links ul>li{font-size:13px}
+.footer-widgets{padding:30px 0}
+
+.footer-about-us p{font-size:13px;line-height:28px;margin-top:43px}
+.footer-widgets .widget-title{margin-bottom:26px;font-size:16px;position:relative;text-transform:none;letter-spacing:normal}
+.footer-widgets a{color:#7f7f7f}.footer-widgets a:hover{color:#000}
+.footer-links li:first-child{padding-top:0!important}
+.footer-links li:last-child{border-bottom:none!important;padding-bottom:0!important}
+.footer-links ul>li{font-size:13px}
+a,a:hover {
+    text-decoration: none;
+    outline: none
+}
+.newsletter{padding:53px 0;border-top:1px solid #ebebeb;border-bottom:1px solid #ebebeb;background-color:#f7f8f9}
+.newsletter h4{display:inline-block;margin-right:38px;margin-bottom:0;vertical-align:middle;font-size:16px}
+@media only screen and (max-width:767px)
+{.newsletter h4{display:block;margin-right:0;margin-bottom:10px}}
+.newsletter .newsletter-form,.newsletter .newsletter-submit{display:inline-block}
+.newsletter .newsletter-input{vertical-align:middle;background:#fff;margin-right:6px;width:280px;margin-bottom:0!important}
+@media only screen and (max-width:767px)
+{.newsletter .newsletter-input{width:100%;margin-bottom:10px!important}}
+.newsletter-form{width:100%;margin-right:0}
+.newsletter .newsletter-form{width:100%;margin-right:0}
+.newsletter h4 {
+    display: inline-block;
+    margin-right: 38px;
+    margin-bottom: 0;
+    vertical-align: middle;
+    font-size: 16px;
+}
+.newsletter {
+    padding: 53px 0;
+    border-top: 1px solid #ebebeb;
+    border-bottom: 1px solid #ebebeb;
+    background-color: #f7f8f9;}
