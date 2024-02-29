@@ -8,8 +8,11 @@
     padding-right: 5px;
 }
 .cat{
-    width: 100%;
+    
     transition: width .2s;
+}
+.cat:hover{
+    transform: scale(1.1);
 }
 .Clients{
     background-image: url(https://deothemes.com/envato/zenna/html/img/testimonials/testimonial_bg.jpg);
